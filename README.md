@@ -1,0 +1,1 @@
+## A nonsense sort that keeps inverting the array randomly until sorted, written in Java.
